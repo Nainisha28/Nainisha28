@@ -8,7 +8,7 @@ My main stack is React, Node.js, and MongoDB.
 My go-to tools are Figma, Wix Studio, Affinity, and Antigravity.
 
 **Fun Facts:**
-- Anime is basically my second language 🎌
+- I love Anime 🎌
 - I like building things — inside and outside the editor
 - Video editing is my quiet superpower 🎬
 
