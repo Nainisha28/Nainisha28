@@ -2,7 +2,7 @@
 I'm **Nainisha Bhairam**, a Full Stack Developer & UI/UX Designer.
 
 I build end-to-end web experiences — clean interfaces on the front, solid systems on the back.
-Currently diving deep into **backend development** and **system design**.
+Currently diving deep into **backend development** and **data science**.
 
 My main stack is React, Node.js, and MongoDB.
 My go-to tools are Figma, Wix Studio, Affinity, and Antigravity.
