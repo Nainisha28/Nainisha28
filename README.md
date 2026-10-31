@@ -2,7 +2,7 @@
 
 I'm **Nainisha Bhairam** — a CS student who loves building things with code, breaking them, and occasionally fixing them. 🫠
 
-🌐 **Full Stack:** React, Node.js, MongoDB  
+🌐 **Full Stack:** React, Node.js, MySQL  
 🤖 **AI/ML:** Machine Learning, Deep Learning, Edge AI  
 📊 **Data Science:** Python, Pandas, NumPy, Scikit-learn  
 
